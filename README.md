@@ -2,9 +2,6 @@
 
 [![nieyraud's 42 stats](https://badge42.vercel.app/api/v2/cl4shswhy006609jmm7nc9fh9/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
-[![nieyraud's 42 kfs-1 Score](https://badge42.vercel.app/api/v2/cl4shswhy006609jmm7nc9fh9/project/2624769)](https://github.com/JaeSeoKim/badge42)
-[![nieyraud's 42 woody-woodpacker Score](https://badge42.vercel.app/api/v2/cl4shswhy006609jmm7nc9fh9/project/2520131)](https://github.com/JaeSeoKim/badge42)
-[![nieyraud's 42 ft_irc Score](https://badge42.vercel.app/api/v2/cl4shswhy006609jmm7nc9fh9/project/2129744)](https://github.com/JaeSeoKim/badge42)
 <!--
 **Harthann/Harthann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
